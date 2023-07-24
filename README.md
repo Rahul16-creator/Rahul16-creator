@@ -6,7 +6,7 @@ Experienced Full Stack Developer with a demonstrated history of working in the c
 
 ## Contact Me
 
-If you would like to get in touch with me, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-krishnan-74358b1ab/). You can also send me an email at [prakashchandra3786@gmail.com](mailto:rahulkrishnanr016@gmail.com).
+If you would like to get in touch with me, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-krishnan-74358b1ab/). You can also send me an email at [rahulkrishnanr016@gmail.com](mailto:rahulkrishnanr016@gmail.com).
 
 <!--
 https://readme-typing-svg.herokuapp.com/demo/
