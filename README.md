@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&pause=1000&color=F79200&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Rahul+krishnan;I'm+a+Full+Stack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&pause=1000&color=F79200&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Rahul+;I'm+a+sasFull+Stack+developer)](https://git.io/typing-svg)
 
 ## About Me
 
