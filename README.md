@@ -81,7 +81,6 @@ Experienced Full Stack Developer with a demonstrated history of working in the c
 &emsp;
 
 
-
 </p>
 
 <!--
