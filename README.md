@@ -2,7 +2,8 @@
 
 ## About Me
 
-Experienced Full Stack Developer with a demonstrated history of working in the civic & social organization industry. Skilled in HTML, CSS, Java Script, React JS, Node JS, SQl, Java, Spring boot and Engineering. Strong engineering professional with a Bachelor's degree focused in Electronics and communication engineering from Sri Shakthi Institute of Engineering and Technology.
+Experienced Full Stack Developer with a demonstrated history of working in the civic & social organization industry. Skilled in HTML, CSS, JavaScript, React JS, Node JS, SQL, Java, and Spring Boot. Strong engineering professional with a Bachelor's degree in Electronics and Communication Engineering from Sri Shakthi Institute of Engineering and Technology.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -10,9 +11,7 @@ Experienced Full Stack Developer with a demonstrated history of working in the c
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 I’m currently Working on Full stack
-
-- 🌱 I’m currently learning React Native
+- 🌱  I’m currently working on: Developing robust and scalable full stack applications
 
 - 💬 Ask me about **Java Script, Java**
 
