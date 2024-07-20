@@ -64,7 +64,6 @@ Experienced Full Stack Developer with a demonstrated history of working in the c
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
   
 </p>
@@ -77,8 +76,10 @@ Experienced Full Stack Developer with a demonstrated history of working in the c
 &emsp;
 <a target="_blank" href="rahulkrishnanr016@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-&emsp;
-
+<!-- &emsp;
+  <a target="_blank" href="https://discord.com/rahulkrishnanr">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a> -->
 
 </p>
 
