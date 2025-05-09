@@ -12,9 +12,13 @@
 
 I'm an experienced Full Stack Developer passionate about building robust and scalable web applications. I specialize in both frontend and backend technologies and have a strong foundation in software engineering.
 
-🎓 **Education:** Bachelor's in Electronics and Communication Engineering from Sri Shakthi Institute of Engineering and Technology  
-🌱 **Currently working on:** Developing scalable full-stack applications  
-💬 **Ask me about:** JavaScript, Java, Spring Boot, React
+<!--
+🎓 **Education:** Bachelor's in Electronics and Communication Engineering from Sri Shakthi Institute of Engineering and Technology
+-->
+
+🌱 **Currently working on :**  Developing scalable full-stack applications  
+
+💬 **Ask me about :**  JavaScript, Java, Spring Boot, React
 
 ---
 
